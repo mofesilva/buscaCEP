@@ -1,6 +1,8 @@
 # busca_cep
 
-A new Flutter project.
+This is a very simple app that is meant to be a training exercise. The idea is to learn once and for all how to send an http request to a public API with a brazilian zip code and return the address of that zip code.
+
+Some of the things done on this project that was also new was using RegEx to validate is the type zip code is valid, containing 5 numbers a (-) and 3 more numbers, like this format: 00000-000. 
 
 ## Getting Started
 
